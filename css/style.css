@@ -17,9 +17,9 @@ header {
     background-color: #333;
 }
 
-nav {
-    background-color: #333; 
-    height: 60px;
+.navbar-me {
+    background-color: #333 !important; 
+
   }
 
   nav img {
@@ -62,6 +62,11 @@ nav {
     color: #333;
  }
 
+ .btn-rsp {
+  background-color: #747474;
+  color: #fff;
+ }
+
 
  .section-img div {
     background-image: url(../images/foto.jpg);
@@ -92,7 +97,6 @@ nav {
   background-color: #5c5c5c52;
   color: #fff;
   padding: 12px 12px 12px 12px;
-  height: 400px;
   display: inline-flex;
   justify-content: center;
   flex-wrap: wrap;
