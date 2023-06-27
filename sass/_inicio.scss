@@ -1,20 +1,25 @@
-.section-img div {
-    background-image: url(../images/foto.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    height: 42.95em;
-    width: 100%;
+.section-img { 
+    div {
+      background-image: url(../images/foto.jpg);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      height: 42.95em;
+      width: 100%;
+  }
 }
 
-.section-img div {
-    text-align: center;
-
+.section-img { 
+    div {
+      text-align: center;
+  }
 }
-.h1-image h1 {
-    padding-top: 7em;
-    font-size: 3em;
-    color: aliceblue;
+.h1-image {
+    h1 {
+      padding-top: 7em;
+      font-size: 3em;
+      color: aliceblue;
+  }
 }
 
 .p-img {
@@ -34,11 +39,16 @@
   width: 100%;
 }
 
-.ab-me div {
-  margin: 10px auto;
-  display: flex;
+.ab-me 
+{
+  div {
+    margin: 10px auto;
+    display: flex;
+  }
 }
 
-.abd-me p {
-  font-size: 1.25rem;
+.abd-me {
+  p {
+    font-size: 1.25rem;
+  }
 }

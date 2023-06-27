@@ -4,10 +4,12 @@
     text-align: center;
   }
   
-  .form-cto img {
-    width: 65px;
-    height: 65px;
-    display: flex;
+  .form-cto {
+    img {
+      width: 65px;
+      height: 65px;
+      display: flex;
+    }
   }
   
   .form-cto {
@@ -52,17 +54,19 @@
     align-items: center;
   }
   
-  .cto-link a {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: #000;
-    background-color: #ffffff63;
-    padding: 5px;
-    border-radius: 19px;
-    margin: 3px;
-    height: 100px;
-    width: 250px;
+  .cto-link {
+    a {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #000;
+      background-color: #ffffff63;
+      padding: 5px;
+      border-radius: 19px;
+      margin: 3px;
+      height: 100px;
+      width: 250px;
+    }
   }
   
   .cto-link {
