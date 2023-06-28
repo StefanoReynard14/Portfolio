@@ -11,7 +11,7 @@ footer {
   
   footer {
     a {
-      @include footer_color($colorft);
+      @include footer_color;
       text-decoration: none;
     }
   }
