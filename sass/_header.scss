@@ -54,6 +54,6 @@ header {
  .link-devices {
     a:hover {
       background-color: #fff; 
-      color: #333;
+      @extend .navbar-me;
     }
  }
