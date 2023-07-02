@@ -141,12 +141,11 @@ input {
   padding: 12px;
 }
 
-.pass-cto {
+.pass-cto, .btn-cto {
   margin: 5px;
 }
 
 .btn-cto {
-  padding: 8px;
   background-color: #747474;
   color: #fff;
   cursor: pointer;

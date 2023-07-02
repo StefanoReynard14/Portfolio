@@ -40,7 +40,7 @@
   }
   
   .btn-cto {
-    padding: 8px;
+    @extend .pass-cto;
     background-color: #747474;
     color: #fff;
     cursor: pointer;
