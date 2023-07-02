@@ -11,8 +11,7 @@ footer {
   
   footer {
     a {
-      color: #474747;
-      text-decoration: none;
+      @include footer_color($colorfooter);
     }
   }
   
