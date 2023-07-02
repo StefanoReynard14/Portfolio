@@ -17,8 +17,8 @@ header {
   background-color: #333;
 }
 
-.navbar-me, .link-devices a:hover {
-  background-color: #333 !important;
+.navbar-me {
+  background-color: #333;
 }
 
 nav img {
@@ -58,6 +58,7 @@ li {
 
 .link-devices a:hover {
   background-color: #fff;
+  color: #333;
 }
 
 .section-img div {

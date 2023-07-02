@@ -1,3 +1,7 @@
+@mixin footer_color {
+  color: #474747;
+  text-decoration: none;
+}
 
 footer {
     background-color: #ffffff;
@@ -11,7 +15,7 @@ footer {
   
   footer {
     a {
-      @include footer_color($colorfooter);
+      @include footer_color;
     }
   }
   
