@@ -1,0 +1,56 @@
+
+footer {
+    background-color: #ffffff;
+    font-size: 12px;
+    padding: 10px;
+  }
+  
+  h3 {
+    font-size: 16px;
+  }
+  
+  footer a {
+    color: #747474;
+    text-decoration: none;
+  }
+  
+  .Utiles-Footer {
+    display: inline-flex;
+    flex-direction: column;
+    padding: 5px;
+    padding-top: 0;
+    text-align: center;
+  }
+  
+  .Redes-Footer {
+      display: inline-flex;
+      flex-direction: column;
+      justify-content: center;
+      text-align: center;
+  }
+  
+  .Contacto-Footer {
+    display: inline-flex;
+    flex-direction: column;
+    text-align: center;
+    
+  }
+  
+  .footer-class {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .derechos {
+    padding-top: 8px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+  }
+  
+  .derechos {
+    display: flex;
+    justify-content: center;
+  }

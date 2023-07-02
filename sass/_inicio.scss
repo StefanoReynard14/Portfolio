@@ -1,0 +1,44 @@
+.section-img div {
+    background-image: url(../images/foto.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 42.95em;
+    width: 100%;
+}
+
+.section-img div {
+    text-align: center;
+
+}
+.h1-image h1 {
+    padding-top: 7em;
+    font-size: 3em;
+    color: aliceblue;
+}
+
+.p-img {
+  padding: 3px;
+  font-size: 1em;
+  color: rgba(240, 248, 255, 0.637);
+}
+
+.abd-me {
+  background-color: #5c5c5c52;
+  color: #fff;
+  display: inline-flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+}
+
+.ab-me div {
+  margin: 10px auto;
+  display: flex;
+}
+
+.abd-me p {
+  font-size: 1.25rem;
+}
